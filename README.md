@@ -4,7 +4,7 @@
 
 # Download
 
-*git clone htpps://github/Rxphgui/fishgui*
+*git clone https://github/Rxphgui/fishgui*
 # Use
 
 ° For use fishgui 🐟 :
